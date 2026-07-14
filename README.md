@@ -32,6 +32,25 @@ Pick your APK on the **[latest release](https://github.com/Kwickflix/kwicktv-and
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+### On the big screen
+
+<img src="assets/land-home.png" width="49%" alt="Home"> <img src="assets/land-guide.png" width="49%" alt="TV Guide">
+<img src="assets/land-live.png" width="49%" alt="Live TV"> <img src="assets/land-player.png" width="49%" alt="Player">
+<img src="assets/land-movies.png" width="49%" alt="Movies"> <img src="assets/land-series.png" width="49%" alt="Series">
+
+### On your phone
+
+<img src="assets/port-home.png" width="24%" alt="Home"> <img src="assets/port-guide.png" width="24%" alt="Guide"> <img src="assets/port-live.png" width="24%" alt="Live TV"> <img src="assets/port-player.png" width="24%" alt="Player">
+<img src="assets/port-movies.png" width="24%" alt="Movies"> <img src="assets/port-series.png" width="24%" alt="Series">
+
+</div>
+
+---
+
 ## Features
 
 ### 📺 A real TV Guide
