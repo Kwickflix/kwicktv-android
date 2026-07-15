@@ -17,17 +17,11 @@
 
 Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
-</div>
+<br>
 
----
+### If Kwick Player earns a spot on your TV, give it a star ⭐
 
-## ⭐ Star this repo
-
-If Kwick Player earns a spot on your TV, **drop a star** — it helps other people find it and keeps the updates coming. ⬆️ up top, or right here:
-
-<div align="center">
-
-[![Star on GitHub](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=social)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kwickflix/kwicktv-android)
 
 </div>
 
@@ -83,42 +77,23 @@ Pick your APK on the **[latest release](https://github.com/Kwickflix/kwicktv-and
 
 ## Features
 
-### 📺 A real TV Guide
-A full **timeline grid** like cable — show blocks sized by runtime, a red **NOW line** that moves in real time, and **genre tabs** (News, Sports, Movies, Kids & more) that pull channels from every category together. Pick any show to watch it — or record it.
-
-### 🎬 Movies & Series
-Posters, ratings, cast, and details like the big streaming apps. **Resume** tells you how many minutes are left, **Play from Beginning** starts a rewatch fresh, **next-episode buttons** and **auto-play next** keep a binge going, and **Kwick Picks** suggests titles based on what you watch.
-
-### ⭐ Favorite Lists
-Make your own named lists — **Sports, Kids, News**, whatever — and drop channels, movies, and series into them. Each list gets its own row on Home; show, hide, rename, or delete them any time.
-
-### ⏺️ Your own DVR
-**Record Now** on any channel, or **book upcoming shows from the guide** — recording runs on schedule and keeps going in the background. *(Sideload editions.)*
-
-### 🎮 Made for the remote
-Built **D-pad first** — clear focus, every popup lands on the right button. Tested on **Fire TV, Google TV, Nvidia Shield & ONN**.
-
-### 📱 Great on phones too
-**Picture-in-Picture** floats the video while you use other apps, and a **screen lock** freezes the screen against pocket-touches.
-
-### 🔒 Parental controls
-Set a PIN and lock any live, movie, or series category — hidden completely or PIN-gated, your choice.
-
-### 🎨 Make it yours
-**Hide & reorder** categories/channels/favorites, **sort channels**, sleep timer, and themes — including retro **Fallout** (Pip-Boy terminal) and **Final Fantasy** skins.
-
-### 🔗 Bring your other playlists
-**Add extra sources** (Xtream or M3U) — their channels, guide, movies & series **merge into one library**.
+- **📺 A real TV Guide** — full timeline grid like cable, a red NOW line, and genre tabs (News, Sports, Movies, Kids…) pulling channels from every category together.
+- **🎬 Movies & Series** — posters, ratings, and cast; Resume / Play from Beginning, next-episode buttons, auto-play next, and Kwick Picks suggestions.
+- **⭐ Favorite Lists** — make your own named lists (Sports, Kids, News…) and drop channels, movies, and series into them; each list gets its own Home row.
+- **⏺️ Your own DVR** — Record Now on any channel or book upcoming shows from the guide; recordings run in the background. *(Sideload editions.)*
+- **🎮 Made for the remote** — D-pad-first design tested on Fire TV, Google TV, Nvidia Shield & ONN.
+- **📱 Great on phones too** — Picture-in-Picture and a screen lock against pocket-touches.
+- **🔒 Parental controls** — PIN-lock any live, movie, or series category (hidden completely or PIN-gated).
+- **🎨 Make it yours** — hide & reorder categories/channels/favorites, sort channels, sleep timer, and themes (including retro Fallout & Final Fantasy skins).
+- **🔗 Bring your other playlists** — add Xtream or M3U sources and everything merges into one library.
 
 ---
 
 ## Install
 
-### Phone / tablet
-Download the APK, tap it, allow "install from this source" if prompted.
+**Phone / tablet** — download the APK, tap it, allow "install from this source" if prompted.
 
-### Fire TV / Android TV
-Use the **[Downloader](https://www.aftvnews.com/downloader/)** app and enter the code:
+**Fire TV / Android TV** — use the **[Downloader](https://www.aftvnews.com/downloader/)** app and enter the code:
 
 | Edition | Downloader code |
 |:--|:--:|
@@ -127,20 +102,18 @@ Use the **[Downloader](https://www.aftvnews.com/downloader/)** app and enter the
 
 ---
 
-## Community
+## 🙌 Contributors
 
-Questions, requests, or just want in on the action? Come say hi:
+Kwick Player is shaped by our community — the features below started as member requests. Huge thanks to:
 
-➡️ [![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3) &nbsp;
-➡️ [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5) &nbsp;
-➡️ [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218) &nbsp;
-➡️ [![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=flat-square&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
-
-## Contributors
-
-<a href="https://github.com/Kwickflix/kwicktv-android/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kwickflix/kwicktv-android" alt="Contributors" />
-</a>
+- **Ed** — next / previous episode buttons, now-playing in the channel list
+- **Duffy** — auto-reconnect on stalls, Play from Beginning, Fallout theme tuning & fixes
+- **Tiredofitall** — auto-play next episode
+- **ZZ** — Movies/Series category bar, Show Recently Watched toggle
+- **UnderDeztrukshun** — Picture-in-Picture on/off
+- **T.Icarus** — move-to-top & drag reordering
+- **Mred0940** — Favorite Lists
+- **Inno** — and everyone in the community who tests, reports, and requests 💙
 
 ---
 
