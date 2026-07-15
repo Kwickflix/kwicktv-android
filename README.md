@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="720" alt="Kwick Player">
+<img src="assets/banner.png" width="620" alt="Kwick Player">
 
 # Kwick Player for Android
 
@@ -8,9 +8,26 @@
 
 [![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?style=for-the-badge&color=2086FF&label=latest)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?style=for-the-badge&color=2086FF)](https://github.com/Kwickflix/kwicktv-android/releases)
-[![Android](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=for-the-badge&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
 
 Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
+
+</div>
+
+---
+
+## ⭐ Star this repo
+
+If Kwick Player earns a spot on your TV, **drop a star** — it helps other people find it and keeps the updates coming. ⬆️ up top, or right here:
+
+<div align="center">
+
+[![Star on GitHub](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=social)](https://github.com/Kwickflix/kwicktv-android/stargazers)
 
 </div>
 
@@ -34,60 +51,73 @@ Pick your APK on the **[latest release](https://github.com/Kwickflix/kwicktv-and
 
 ## Screenshots
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="assets/land-home.png" width="250"><br><sub><b>Home</b></sub></td>
+    <td align="center"><img src="assets/land-guide.png" width="250"><br><sub><b>TV Guide</b></sub></td>
+    <td align="center"><img src="assets/land-live.png" width="250"><br><sub><b>Live TV</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/land-player.png" width="250"><br><sub><b>Player</b></sub></td>
+    <td align="center"><img src="assets/land-movies.png" width="250"><br><sub><b>Movies</b></sub></td>
+    <td align="center"><img src="assets/land-series.png" width="250"><br><sub><b>Series</b></sub></td>
+  </tr>
+</table>
 
-### On the big screen
-
-<img src="assets/land-home.png" width="49%" alt="Home"> <img src="assets/land-guide.png" width="49%" alt="TV Guide">
-<img src="assets/land-live.png" width="49%" alt="Live TV"> <img src="assets/land-player.png" width="49%" alt="Player">
-<img src="assets/land-movies.png" width="49%" alt="Movies"> <img src="assets/land-series.png" width="49%" alt="Series">
-
-### On your phone
-
-<img src="assets/port-home.png" width="24%" alt="Home"> <img src="assets/port-guide.png" width="24%" alt="Guide"> <img src="assets/port-live.png" width="24%" alt="Live TV"> <img src="assets/port-player.png" width="24%" alt="Player">
-<img src="assets/port-movies.png" width="24%" alt="Movies"> <img src="assets/port-series.png" width="24%" alt="Series">
-
-</div>
+<details>
+<summary><b>📱 Phone screenshots</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center"><img src="assets/port-home.png" width="150"><br><sub>Home</sub></td>
+    <td align="center"><img src="assets/port-guide.png" width="150"><br><sub>Guide</sub></td>
+    <td align="center"><img src="assets/port-live.png" width="150"><br><sub>Live TV</sub></td>
+    <td align="center"><img src="assets/port-player.png" width="150"><br><sub>Player</sub></td>
+    <td align="center"><img src="assets/port-movies.png" width="150"><br><sub>Movies</sub></td>
+    <td align="center"><img src="assets/port-series.png" width="150"><br><sub>Series</sub></td>
+  </tr>
+</table>
+</details>
 
 ---
 
 ## Features
 
 ### 📺 A real TV Guide
-A full **timeline grid** like cable — show blocks sized by runtime, a red **NOW line** that moves in real time, and **genre tabs** (News, Sports, Movies, Kids & more) that pull channels from every category together. Pick any show to watch it — or record it. Channels without guide data still show their name and an "OK to watch" block.
+A full **timeline grid** like cable — show blocks sized by runtime, a red **NOW line** that moves in real time, and **genre tabs** (News, Sports, Movies, Kids & more) that pull channels from every category together. Pick any show to watch it — or record it.
 
 ### 🎬 Movies & Series
-Posters, ratings, cast, and details like the big streaming apps. **Resume** tells you how many minutes are left, **Play from Beginning** starts a rewatch fresh, **next-episode buttons** and **auto-play next** keep a binge going across seasons, and **Kwick Picks** suggests titles based on what you watch.
+Posters, ratings, cast, and details like the big streaming apps. **Resume** tells you how many minutes are left, **Play from Beginning** starts a rewatch fresh, **next-episode buttons** and **auto-play next** keep a binge going, and **Kwick Picks** suggests titles based on what you watch.
+
+### ⭐ Favorite Lists
+Make your own named lists — **Sports, Kids, News**, whatever — and drop channels, movies, and series into them. Each list gets its own row on Home; show, hide, rename, or delete them any time.
 
 ### ⏺️ Your own DVR
-**Record Now** on any channel, or **book upcoming shows right from the guide** — recording starts and stops on schedule and keeps running even when you press Home and use other apps. A live timer notification shows what's recording; tap it to jump straight to the Stop button. Play everything back from the Recordings tab. *(Sideload editions only — the Play Store edition follows Google's no-background-recording rule.)*
+**Record Now** on any channel, or **book upcoming shows from the guide** — recording runs on schedule and keeps going in the background. *(Sideload editions.)*
 
 ### 🎮 Made for the remote
-Every screen is built **D-pad first** — clear focus highlights, and every popup lands the remote on the right button automatically. Tested on **Fire TV, Google TV, Nvidia Shield & ONN** boxes, with per-remote fixes for the quirky ones.
+Built **D-pad first** — clear focus, every popup lands on the right button. Tested on **Fire TV, Google TV, Nvidia Shield & ONN**.
 
 ### 📱 Great on phones too
-**Picture-in-Picture** keeps the video floating while you use other apps, and a **screen lock** button freezes the screen against pocket-touches and little fingers — no accidental pause or exit.
+**Picture-in-Picture** floats the video while you use other apps, and a **screen lock** freezes the screen against pocket-touches.
 
 ### 🔒 Parental controls
-Set a PIN (kept in your device's **encrypted storage**) and lock any live, movie, or series category. Choose whether locked content **disappears completely** or stays visible but **asks for the PIN** — channel zapping skips locked channels either way.
+Set a PIN and lock any live, movie, or series category — hidden completely or PIN-gated, your choice.
 
 ### 🎨 Make it yours
-**Hide & reorder** categories, channels, and favorites; **sort channels** your way; set a **sleep timer** or start playback muted; and pick a **theme** — including two full retro skins: **Fallout** (a green Pip-Boy terminal with CRT scanlines) and **Final Fantasy** (blue menu windows, the FF7 menu font, battle-menu buttons).
+**Hide & reorder** categories/channels/favorites, **sort channels**, sleep timer, and themes — including retro **Fallout** (Pip-Boy terminal) and **Final Fantasy** skins.
 
 ### 🔗 Bring your other playlists
-Have another provider? **Add extra sources** (Xtream login or M3U link) and their channels, guide data, movies & series **merge into one library** — each item tagged with where it came from.
-
-### 🚀 Built tough
-**Two playback engines** (switch if a stream stutters on your device), **auto-reconnect** on stalled streams, a **built-in proxy**, and in-app **log sharing** so support can actually help. Member requests become real updates — and the sideload editions install them in-app, right on your TV.
+**Add extra sources** (Xtream or M3U) — their channels, guide, movies & series **merge into one library**.
 
 ---
 
 ## Install
 
 ### Phone / tablet
-Download the APK, tap it, and allow "install from this source" if prompted.
+Download the APK, tap it, allow "install from this source" if prompted.
 
-### Fire TV / Android TV — the easy way
+### Fire TV / Android TV
 Use the **[Downloader](https://www.aftvnews.com/downloader/)** app and enter the code:
 
 | Edition | Downloader code |
@@ -95,9 +125,22 @@ Use the **[Downloader](https://www.aftvnews.com/downloader/)** app and enter the
 | KwickTV Player (members) | **4054731** |
 | Kwick Player (public) | **6164694** |
 
-> **Members:** sign in with your **IPTV username & password** (from your welcome email) — *not* your store email. That's the #1 login mix-up.
->
-> **Updates:** the sideload APKs prompt and update themselves in-app when a new version is posted here. The Google Play edition (coming soon) updates automatically through Play.
+---
+
+## Community
+
+Questions, requests, or just want in on the action? Come say hi:
+
+➡️ [![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3) &nbsp;
+➡️ [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5) &nbsp;
+➡️ [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218) &nbsp;
+➡️ [![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=flat-square&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+
+## Contributors
+
+<a href="https://github.com/Kwickflix/kwicktv-android/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kwickflix/kwicktv-android" alt="Contributors" />
+</a>
 
 ---
 
