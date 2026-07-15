@@ -43,6 +43,17 @@ Pick your APK on the **[latest release](https://github.com/Kwickflix/kwicktv-and
 
 ---
 
+## 📺 All versions
+
+Kwick Player runs on more than one platform — grab the one for your device:
+
+| Platform | Devices | |
+|:--|:--|:--:|
+| **Android** | Phones, tablets, Fire TV, Android TV | ⬆️ you're here |
+| **Roku** | Roku sticks, boxes & TVs | [![Roku](https://img.shields.io/badge/Get_the_Roku_version-662D91?style=for-the-badge&logo=roku&logoColor=white)](https://github.com/Kwickflix/kwicktv-roku) |
+
+---
+
 ## Screenshots
 
 <table>
