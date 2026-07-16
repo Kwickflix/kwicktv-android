@@ -6,14 +6,15 @@
 
 **A sleek IPTV player for live TV, movies & series — on your phone, tablet, Fire TV, and Android TV.**
 
-[![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?style=for-the-badge&color=2086FF&label=latest)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?style=for-the-badge&color=2086FF)](https://github.com/Kwickflix/kwicktv-android/releases)
-[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=for-the-badge&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+[![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?label=version&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?label=downloads&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Fire%20TV%20%7C%20Android%20TV-3ddc84?logo=android&logoColor=white)](#)
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
-[![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+[![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
+[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/website-kwickflix.shop-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
 
 Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
