@@ -107,7 +107,8 @@ Kwick Player runs on more than one platform — grab the one for your device:
 - **⏺️ Your own DVR** — Record Now on any channel or book upcoming shows from the guide; recordings run in the background. *(Sideload editions.)*
 - **▶️ Two player engines** — the feature-packed default, or Android's built-in ExoPlayer for TVs that stutter on some streams. Captions work on both.
 - **🎮 Made for the remote** — D-pad-first design tested on Fire TV, Google TV, Nvidia Shield & ONN.
-- **📱 Great on phones too** — Picture-in-Picture and a screen lock against pocket-touches.
+- **📱 Great on phones too** — lock-screen media controls (see what's playing, pause/resume), a fullscreen edge-to-edge mode, background listening with the screen off, Picture-in-Picture, and a screen lock against pocket-touches.
+- **🛟 One-tap support** — Export Logs sends diagnostics straight to the team, and Discord & Telegram are one tap away in Settings.
 - **🔒 Parental controls** — PIN-lock any live, movie, or series category (hidden completely or PIN-gated).
 - **🎨 Make it yours** — hide & reorder categories/channels/favorites, sort channels, sleep timer, and themes (including retro Fallout & Final Fantasy skins).
 - **🔗 Bring your other playlists** — add Xtream or M3U sources and everything merges into one library.
