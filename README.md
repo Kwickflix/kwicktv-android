@@ -35,8 +35,7 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
 | Edition | Who it's for | Get it |
 |:--|:--|:--:|
-| **KwickTV Player** | KwickTV members — sign in with just your KwickTV username & password | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
-| **Kwick Player** | Everyone — bring your own Xtream Codes or M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
+| **Kwick Player** | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
 | **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-coming_soon-555?logo=googleplay&logoColor=white)](#) |
 
 </div>
@@ -123,8 +122,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 
 | Edition | Downloader code |
 |:--|:--:|
-| KwickTV Player (members) | **4054731** |
-| Kwick Player (public) | **6164694** |
+| Kwick Player | **6164694** |
 
 ---
 
