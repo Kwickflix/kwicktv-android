@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
 [![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
 [![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
-[![Website](https://img.shields.io/badge/website-kwickflix.shop-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+[![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickplayer.tv/)
 
 [![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-android/stargazers)
 
@@ -36,7 +36,7 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 | Edition | Who it's for | Get it |
 |:--|:--|:--:|
 | **Kwick Player** | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
-| **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-coming_soon-555?logo=googleplay&logoColor=white)](#) |
+| **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-get_it-3ddc84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kwickplayer.official) |
 
 </div>
 
@@ -59,32 +59,35 @@ Kwick Player runs on more than one platform — grab the one for your device:
 
 <table>
   <tr>
-    <td align="center"><img src="assets/land-home.png" width="250"><br><sub><b>Home</b></sub></td>
-    <td align="center"><img src="assets/land-guide.png" width="250"><br><sub><b>TV Guide</b></sub></td>
-    <td align="center"><img src="assets/land-live.png" width="250"><br><sub><b>Live TV</b></sub></td>
+    <td align="center"><img src="assets/land-home.jpg" width="250"><br><sub><b>Home</b></sub></td>
+    <td align="center"><img src="assets/land-guide.jpg" width="250"><br><sub><b>TV Guide</b></sub></td>
+    <td align="center"><img src="assets/land-live.jpg" width="250"><br><sub><b>Live TV</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/land-player.png" width="250"><br><sub><b>Player</b></sub></td>
-    <td align="center"><img src="assets/land-movies.png" width="250"><br><sub><b>Movies</b></sub></td>
-    <td align="center"><img src="assets/land-series.png" width="250"><br><sub><b>Series</b></sub></td>
+    <td align="center"><img src="assets/land-vod.jpg" width="250"><br><sub><b>Movies &amp; Series</b></sub></td>
+    <td align="center"><img src="assets/land-series-details.jpg" width="250"><br><sub><b>Series details</b></sub></td>
+    <td align="center"><img src="assets/land-movies-details.jpg" width="250"><br><sub><b>Movie details</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/land-profile.jpg" width="250"><br><sub><b>Who&#39;s watching?</b></sub></td>
+    <td align="center"><img src="assets/land-settings.jpg" width="250"><br><sub><b>Settings</b></sub></td>
+    <td align="center"><img src="assets/land-login.jpg" width="250"><br><sub><b>Sign in</b></sub></td>
   </tr>
 </table>
 
 <details>
-<summary><b>📱 Phone screenshots</b></summary>
+<summary><b>&#128241; Phone screenshots</b></summary>
 <br>
 <table>
   <tr>
     <td align="center"><img src="assets/port-home.jpg" width="150"><br><sub>Home</sub></td>
-    <td align="center"><img src="assets/port-profile.jpg" width="150"><br><sub>Who's watching?</sub></td>
+    <td align="center"><img src="assets/port-profile.jpg" width="150"><br><sub>Who&#39;s watching?</sub></td>
     <td align="center"><img src="assets/port-guide.jpg" width="150"><br><sub>Guide</sub></td>
     <td align="center"><img src="assets/port-live.jpg" width="150"><br><sub>Live TV</sub></td>
-    <td align="center"><img src="assets/port-player.jpg" width="150"><br><sub>Player</sub></td>
-    <td align="center"><img src="assets/port-movies.jpg" width="150"><br><sub>Movies</sub></td>
+    <td align="center"><img src="assets/port-vod.jpg" width="150"><br><sub>Movies &amp; Series</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/port-movies-details.jpg" width="150"><br><sub>Movie details</sub></td>
-    <td align="center"><img src="assets/port-series.jpg" width="150"><br><sub>Series</sub></td>
     <td align="center"><img src="assets/port-series-details.jpg" width="150"><br><sub>Series details</sub></td>
     <td align="center"><img src="assets/port-settings.jpg" width="150"><br><sub>Settings</sub></td>
     <td align="center"><img src="assets/port-login.jpg" width="150"><br><sub>Sign in</sub></td>
@@ -109,7 +112,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 - **📱 Great on phones too** — lock-screen media controls (see what's playing, pause/resume), a fullscreen edge-to-edge mode, background listening with the screen off, Picture-in-Picture, and a screen lock against pocket-touches.
 - **🛟 One-tap support** — Export Logs sends diagnostics straight to the team, and Discord & Telegram are one tap away in Settings.
 - **🔒 Parental controls** — PIN-lock any live, movie, or series category (hidden completely or PIN-gated).
-- **🎨 Make it yours** — hide & reorder categories/channels/favorites, sort channels, sleep timer, and themes (including retro Fallout & Final Fantasy skins).
+- **🎨 Make it yours** — hide & reorder categories/channels/favorites, sort channels, sleep timer, and a family of terminal-inspired themes (Midnight Shell, Matrix Green, Purple Cyber, Amber CRT, Synthwave and more).
 - **🔗 Bring your other playlists** — add Xtream or M3U sources and everything merges into one library.
 
 ---
@@ -130,8 +133,9 @@ Kwick Player runs on more than one platform — grab the one for your device:
 
 Kwick Player is shaped by our community — the features below started as member requests. Huge thanks to:
 
-- **Ed** — subtitle & captions debugging, next / previous episode buttons, now-playing in the channel list
-- **Duffy** — the idea for KwickSync, auto-reconnect on stalls, Play from Beginning, Fallout theme tuning & fixes
+- **Ed** — subtitle & captions debugging, next / previous episode buttons, now-playing in the channel list, PPV its own TV Guide tab
+- **Duffy** — the idea for KwickSync, auto-reconnect on stalls, Play from Beginning, auto-update the channel list & guide on launch, and the report that cracked the black-screen bug
+- **Kevin** — Shuffle Episodes: play a series in random order until you stop it
 - **Tiredofitall** — auto-play next episode
 - **ZZ** — Movies/Series category bar, Show Recently Watched toggle
 - **UnderDeztrukshun** — Picture-in-Picture on/off
