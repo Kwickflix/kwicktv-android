@@ -104,6 +104,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 - **🔄 KwickSync** — KwickTV members: your profiles, favorites, lists, watch history & settings follow you to every device automatically — phone, tablet, TV box, even the Roku app.
 - **💬 Captions & subtitles that actually work** — closed captions on live TV (both player engines), full subtitle-track menus on movies & series, and a CC / Subtitle Customization section: position, text size, colors, background box, preferred language, and auto-on.
 - **📺 A real TV Guide** — full timeline grid like cable, a red NOW line, and genre tabs (News, Sports, Movies, Kids…) pulling channels from every category together.
+- **🏟️ Sports** — a page that finds the game first, then finds a channel showing it. Browse what's on now and what's coming up, filter by sport, and open any fixture to see every channel in your own playlist carrying it. Built entirely from your own channels and guide — no sports service involved.
 - **🎬 Movies & Series** — posters, ratings, and cast; Resume / Play from Beginning, next-episode buttons, auto-play next, and Kwick Picks suggestions.
 - **⭐ Favorite Lists** — make your own named lists (Sports, Kids, News…) and drop channels, movies, and series into them; each list gets its own Home row.
 - **⏺️ Your own DVR** — Record Now on any channel or book upcoming shows from the guide; recordings run in the background. *(Sideload editions.)*
