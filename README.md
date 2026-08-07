@@ -24,7 +24,7 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
 ### If Kwick Player earns a spot on your TV, give it a star ⭐
 
-[![Star this repo](https://img.shields.io/badge/star_this_repo-⭐-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android)
+[![Star this repo](https://img.shields.io/badge/star_this_repo-%E2%AD%90-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android)
 
 </div>
 
