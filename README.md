@@ -6,16 +6,17 @@
 
 **A sleek IPTV player for live TV, movies & series — on your phone, tablet, Fire TV, and Android TV.**
 
-[![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?label=version&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?label=downloads&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases)
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Fire%20TV%20%7C%20Android%20TV-3ddc84?logo=android&logoColor=white)](#)
+[![Release date](https://img.shields.io/github/release-date/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=release%20date&labelColor=2b2b2b&color=D6A700)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=release&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?style=for-the-badge&logo=github&logoColor=white&label=downloads&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=stars&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+[![Chat](https://img.shields.io/badge/chat-join_us-44cc11?style=for-the-badge&logo=discord&logoColor=white&labelColor=2b2b2b)](https://discord.gg/ruGAfxUmZ3)
 
-[![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
-[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
-[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
-[![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickplayer.tv/)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Fire%20TV%20%7C%20Android%20TV-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](#)
 
-[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-android/stargazers)
+[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b2b)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b)](https://kwickplayer.tv/)
 
 Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
@@ -23,7 +24,7 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
 ### If Kwick Player earns a spot on your TV, give it a star ⭐
 
-[![Star this repo](https://img.shields.io/badge/⭐-star_this_repo-FFD700?logo=github&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-android)
+[![Star this repo](https://img.shields.io/badge/star_this_repo-⭐-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android)
 
 </div>
 
@@ -35,8 +36,8 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
 | Edition | Who it's for | Get it |
 |:--|:--|:--:|
-| **Kwick Player** | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
-| **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-get_it-3ddc84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kwickplayer.official) |
+| **Kwick Player** | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
+| **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-get_it-3ddc84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=2b2b2b)](https://play.google.com/store/apps/details?id=com.kwickplayer.official) |
 
 </div>
 
@@ -51,7 +52,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 | Platform | Devices | |
 |:--|:--|:--:|
 | **Android** | Phones, tablets, Fire TV, Android TV | ⬆️ you're here |
-| **Roku** | Roku sticks, boxes & TVs | [![Roku](https://img.shields.io/badge/get_the-Roku_version-662D91?logo=roku&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-roku) |
+| **Roku** | Roku sticks, boxes & TVs | [![Roku](https://img.shields.io/badge/get_the-Roku_version-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest) |
 
 ---
 
