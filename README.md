@@ -6,14 +6,14 @@
 
 **A sleek IPTV player for live TV, movies & series — on your phone, tablet, Fire TV, and Android TV.**
 
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Fire%20TV%20%7C%20Android%20TV-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](#)
+
 [![Release date](https://img.shields.io/github/release-date/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=release%20date&labelColor=2b2b2b&color=D6A700)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
 [![Release](https://img.shields.io/github/v/release/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=release&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-android/total?style=for-the-badge&logo=github&logoColor=white&label=downloads&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/releases)
 [![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-android?style=for-the-badge&logo=github&logoColor=white&label=stars&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-android/stargazers)
-[![Chat](https://img.shields.io/badge/chat-join_us-44cc11?style=for-the-badge&logo=discord&logoColor=white&labelColor=2b2b2b)](https://discord.gg/ruGAfxUmZ3)
 
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Fire%20TV%20%7C%20Android%20TV-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](#)
-
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FruGAfxUmZ3%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=2b2b2b&color=5865F2)](https://discord.gg/ruGAfxUmZ3)
 [![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b2b)](https://t.me/+8ifZv6x0sgAzOWE5)
 [![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b)](https://www.facebook.com/profile.php?id=61590978926218)
 [![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b)](https://kwickplayer.tv/)
