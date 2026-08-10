@@ -66,13 +66,18 @@ Kwick Player runs on more than one platform — grab the one for your device:
   </tr>
   <tr>
     <td align="center"><img src="assets/land-vod.jpg" width="250"><br><sub><b>Movies &amp; Series</b></sub></td>
+    <td align="center"><img src="assets/land-sports.jpg" width="250"><br><sub><b>Sports</b></sub></td>
     <td align="center"><img src="assets/land-series-details.jpg" width="250"><br><sub><b>Series details</b></sub></td>
-    <td align="center"><img src="assets/land-movies-details.jpg" width="250"><br><sub><b>Movie details</b></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="assets/land-movies-details.jpg" width="250"><br><sub><b>Movie details</b></sub></td>
     <td align="center"><img src="assets/land-profile.jpg" width="250"><br><sub><b>Who&#39;s watching?</b></sub></td>
     <td align="center"><img src="assets/land-settings.jpg" width="250"><br><sub><b>Settings</b></sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="assets/land-login.jpg" width="250"><br><sub><b>Sign in</b></sub></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -88,11 +93,11 @@ Kwick Player runs on more than one platform — grab the one for your device:
     <td align="center"><img src="assets/port-vod.jpg" width="150"><br><sub>Movies &amp; Series</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="assets/port-sports.jpg" width="150"><br><sub>Sports</sub></td>
     <td align="center"><img src="assets/port-movies-details.jpg" width="150"><br><sub>Movie details</sub></td>
     <td align="center"><img src="assets/port-series-details.jpg" width="150"><br><sub>Series details</sub></td>
     <td align="center"><img src="assets/port-settings.jpg" width="150"><br><sub>Settings</sub></td>
     <td align="center"><img src="assets/port-login.jpg" width="150"><br><sub>Sign in</sub></td>
-    <td></td>
   </tr>
 </table>
 </details>
