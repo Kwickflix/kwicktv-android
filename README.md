@@ -34,12 +34,16 @@ Works on **Fire TV · Google TV · Nvidia Shield · ONN · phones · tablets**
 
 <div align="center">
 
-| Edition | Who it's for | Get it |
-|:--|:--|:--:|
-| **Kwick Player** | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider | [![Download](https://img.shields.io/badge/download-APK-1E7BD7?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
-| **Kwick Player (Play Store)** | Auto-updating install from Google Play | [![Google Play](https://img.shields.io/badge/google_play-get_it-3ddc84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=2b2b2b)](https://play.google.com/store/apps/details?id=com.kwickplayer.official) |
+[![Download the APK](https://img.shields.io/badge/download-APK-1E7BD7?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android/releases/latest)
+&nbsp;&nbsp;
+[![Get it on Google Play](https://img.shields.io/badge/google_play-get_it-3ddc84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=2b2b2b)](https://play.google.com/store/apps/details?id=com.kwickplayer.official)
 
 </div>
+
+| Edition | Who it's for |
+|:--|:--|
+| **Kwick Player** (APK) | Everyone — KwickTV members sign in with just their username & password, or bring your own Xtream Codes / M3U provider |
+| **Kwick Player** (Google Play) | The same app as an auto-updating install from Google Play |
 
 Pick your APK on the **[latest release](https://github.com/Kwickflix/kwicktv-android/releases/latest)**. Every version and its changes are on the **[Releases page](https://github.com/Kwickflix/kwicktv-android/releases)**.
 
@@ -53,17 +57,6 @@ Kwick Player runs on more than one device — grab the one you need:
 |:--|:--|:--:|
 | **Android** | Phones, tablets, Fire TV, Android TV | ⬆️ you're here |
 | **Windows** | Windows 10 & 11 PCs and laptops | [![Windows](https://img.shields.io/badge/get_the-Windows_version-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwickplayer-windows/releases/latest) |
-| **Roku** | Roku sticks, boxes & TVs | [![Roku](https://img.shields.io/badge/get_the-Roku_version-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest) |
-
----
-
-## 📺 All versions
-
-Kwick Player runs on more than one platform — grab the one for your device:
-
-| Platform | Devices | |
-|:--|:--|:--:|
-| **Android** | Phones, tablets, Fire TV, Android TV | ⬆️ you're here |
 | **Roku** | Roku sticks, boxes & TVs | [![Roku](https://img.shields.io/badge/get_the-Roku_version-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest) |
 
 ---
